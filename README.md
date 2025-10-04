@@ -23,7 +23,7 @@ We compare two systems for simulated patient interviews on MedSimAI:
   - This is the version used in the pilot evaluation study (see paper).  
 
 
-- **dialogic_feedback_chatbot.py**  
+- **dialogic_feedback_chatbot.ipynb**  
   Original proof-of-concept chatbot.  
   - Most robust implementation to date 
   - Provides clear, rubric-anchored feedback 
