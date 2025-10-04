@@ -43,5 +43,5 @@ This project is in **preliminary stages** and under continuous development.
 
 ## Acknowledgments
 This project is part of ongoing research at Cornell University.  
-Co-authors: Yann Hicke, Siena Shah, Gianna Cox
-Correspondence: **alina.shah1022@gmail.com*
+- Co-authors: Yann Hicke, Siena Shah, Gianna Cox
+- Correspondence: **alina.shah1022@gmail.com*
