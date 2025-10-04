@@ -1,6 +1,6 @@
 # Rubric-Anchored Chatbot Feedback for Medical Interviews
 
- **Paper:** _Anchoring Medical Chatbot Feedback: Balancing Usability and Evidentiary Reliability_
+ **Paper:** [_Anchoring Medical Chatbot Feedback: Balancing Usability and Evidentiary Reliability_](https://github.com/amshah1022/rubric_anchored_feedback/blob/fcf29f762c0478bc53fa8bb20e6092146316da98/Anchoring_Medical_Chatbot_Feedback_to_Human_Rubrics__A_Pilot_Toward_Reliable_Oversight.pdf)
 
  Rubric-anchored chatbot deployed on [MedSimAI](https://medsimai.com/) 
 
