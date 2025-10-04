@@ -5,7 +5,7 @@
 ---
 
 ##  Overview
-This project investigates how **rubric anchoring** can improve the reliability of chatbot-delivered feedback in medical education.  
+This project investigates how rubric anchoring can improve the reliability of chatbot-delivered feedback in medical education.  
 We compare two systems for simulated patient interviews on MedSimAI:
 
 - **Rubric-Anchored Chatbot** – feedback grounded in the *Medical Interview Rating Scale (MIRS)*.  
@@ -29,19 +29,19 @@ We compare two systems for simulated patient interviews on MedSimAI:
 ---
 
 ## Data Availability
-This project is in **preliminary stages** and under continuous development.  
-- Analysis code and results are **constantly being revised and improved**.  
+This project is in preliminary stages and under continuous development.  
+- Analysis code and results are constantly being revised and improved.  
 - Updated versions will be pushed as the project matures.  
 - For now, see the paper for the most accurate results and interpretation.
 
 ---
 
 ## Deployment
-- All chatbots use **OpenAI’s GPT-4.1** with structured prompts.  
+- All chatbots use OpenAI’s GPT-4.1 with structured prompts.  
 - Current deployment is live through MedSimAI but still being modularized from the prototype.  
 ---
 
 ## Acknowledgments
 This project is part of ongoing research at Cornell University.  
 - Co-authors: Yann Hicke, Siena Shah, Gianna Cox
-- Correspondence: **alina.shah1022@gmail.com*
+- Correspondence: *alina.shah1022@gmail.com*
