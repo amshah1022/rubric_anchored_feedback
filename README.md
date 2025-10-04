@@ -43,7 +43,10 @@ This project is in preliminary stages and under continuous development.
 - Current deployment is live through MedSimAI but still being modularized from the prototype.  
 ---
 
-## Acknowledgments
-This project is part of ongoing research at Cornell University.  
-- Co-authors: Yann Hicke, Siena Shah, Gianna Cox
-- Correspondence: *alina.shah1022@gmail.com*
+## Authors
+This project was developed by: 
+- Alina Shah (dialogic_feedback_chatbot.ipynb, rubric design, participant recruitment/interviewing, study design, writing)
+- Yann Hicke (dialogic_feedback_chatbot.ipynb, rubric design, study design, participant interviewing)
+- Siena Shah (writing, evaluations)
+- Gianna Cox (writing, evaluations, participant recruitment) 
+
