@@ -30,9 +30,9 @@ We compare two systems for simulated patient interviews on MedSimAI:
 
 - **Evaluating AI Feedback for Medical Student Interviews (Responses) - Form Responses 1.numbers**
 
-  Results from study
+  - Results from study
 
-  Some results inputted from Alina Shah's gmail account due to technical obstacles (senior doctors, computer issues, privacy concerns, etc) 
+  - Some results inputted from Alina Shah's gmail account due to technical obstacles (senior doctors, computer issues, privacy concerns, etc) 
 
 ---
 
