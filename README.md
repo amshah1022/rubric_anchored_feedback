@@ -28,6 +28,11 @@ We compare two systems for simulated patient interviews on MedSimAI:
   - Most robust implementation to date 
   - Provides clear, rubric-anchored feedback 
 
+- **Evaluating AI Feedback for Medical Student Interviews (Responses) - Form Responses 1.numbers**
+  Results from study
+
+  Some results inputted from Alina Shah's gmail account due to technical obstacles (senior doctors, computer issues, privacy concerns, etc) 
+
 ---
 
 ## Data Availability
