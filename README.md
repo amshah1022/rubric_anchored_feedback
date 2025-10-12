@@ -57,8 +57,7 @@ Additionally, qualitative questions captured open-text reflections and chatbot p
 - **Prompt Structure:** reflection → rubric mapping → feedback → goal-setting  
 - **Temperature:** 0.7 · **Max tokens:** 650  
 - **Deployment:** live via [MedSimAI](https://medsimai.com/)  
-- **Future Enhancements:** integration with retrieval-based verification and automatic rubric scoring pipelines
-
+- **Future Enhancements:** automated evidence retrieval for transcript-grounded verification and rubric-based scoring pipelines to quantify alignment quality.
 ---
 
 ## Repository Structure
