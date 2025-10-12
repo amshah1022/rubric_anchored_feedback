@@ -24,7 +24,7 @@ We compare two feedback systems:
 
 ---
 
-## 🧪 Study Design
+## Study Design
 
 - **Participants:** 21 medical learners (students, residents, physician assistants, physicians) across UIC, Loyola, and LECOM.  
 - **Design:** within-subjects; each participant interacted with both chatbots after a standardized patient interview (dyspnea case).  
