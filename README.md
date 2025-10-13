@@ -81,7 +81,7 @@ Future updates will include full prompt templates, anonymized transcripts, and r
 ## Authors
 
 - **Alina Shah** — Lead developer, rubric design, participant recruitment, study design, writing  
-- **Yann Hicke** — Co-developer, rubric design, study design, interviewing  
+- **Yann Hicke** — Lead developer, rubric design, study design, interviewing  
 - **Siena Shah** — Writing, evaluation support  
 - **Gianna Cox** — Writing, participant coordination  
 
