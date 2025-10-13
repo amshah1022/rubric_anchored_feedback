@@ -78,20 +78,6 @@ Future updates will include full prompt templates, anonymized transcripts, and r
 
 ---
 
-## Research Context
-
-This work forms the human-feedback calibration layer of a broader *AI Reliability Infrastructure*:
-
-| Layer | Project | Focus |
-|-------|----------|-------|
-| Evidence-Grounded Verification | [Truth Layer](https://github.com/amshah1022/truth-layer) | Verifying factual accuracy via retrieval + NLI |
-| Mechanistic Interpretability | ProbeEng | Layer-wise probing for internal representations |
-| Human-Feedback Calibration | Rubric-Anchored Chatbot | Aligning model feedback with validated rubrics |
-
-Together, these efforts aim to make AI systems accountable, auditable, and trustworthy—moving from surface-level fluency to measurable reliability.
-
----
-
 ## Authors
 
 - **Alina Shah** — Lead developer, rubric design, participant recruitment, study design, writing  
